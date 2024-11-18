@@ -1,0 +1,2 @@
+In the index.js I have created the code which gives us the even and the odd number of the array
+In the app.js I made the code and created multiple functions to filter out the prime numbers and push it into the new array than I have create a another function which gives us the maximum from the new array
